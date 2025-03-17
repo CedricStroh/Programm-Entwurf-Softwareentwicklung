@@ -13,13 +13,13 @@ include_directories(include)
 
 # Add the library for the developer modules
 add_library(developer_module
-   src/developer.c
-   src/developer_group.c
-   src/logo.c
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/src/developer.c
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/src/developer_group.c
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/src/logo.c
 )
 
 # Add the executable for the main application
-add_executable(main src/main.c)
+add_executable(main /workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/main.c)
 
 # Link the library with the executable
 target_link_libraries(main developer_module)

@@ -30,6 +30,6 @@ void print_group_logo(const developer_group *group) {
 
 // Prints the group logo and developer details
 void print_group(const developer_group *group) {
-    print_group_logo(group);
+    print_complex_logo(group);
     print_developers(group);
 }
