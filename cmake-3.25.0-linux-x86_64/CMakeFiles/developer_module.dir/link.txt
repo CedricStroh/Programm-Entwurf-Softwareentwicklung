@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdeveloper_module.a CMakeFiles/developer_module.dir/src/developer.c.o CMakeFiles/developer_module.dir/src/developer_group.c.o CMakeFiles/developer_module.dir/src/logo.c.o
+/usr/bin/ranlib libdeveloper_module.a
