@@ -1,3 +1,12 @@
+/**********************************************
+program name: project pirate 
+date: 17.03.2025
+version: 1.0
+developers: Jannis Messer, Cedric Stroh
+language: C 
+status: final
+***********************************************/
+
 #include <stdio.h>
 #include "developer_group.h"
 #include "logo.h" // New header file for the logo function
