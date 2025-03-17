@@ -1,1 +1,1 @@
-/usr/bin/cc -Wall -Wextra -pedantic CMakeFiles/main.dir/main.c.o -o main  libdeveloper_module.a 
+/usr/bin/cc -Wall -Wextra -pedantic -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/main.c.o -o main  libdeveloper_module.a

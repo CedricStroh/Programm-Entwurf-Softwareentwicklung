@@ -13,8 +13,12 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/src/logo.c" "CMakeFiles/developer_module.dir/src/logo.c.o" "gcc" "CMakeFiles/developer_module.dir/src/logo.c.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
