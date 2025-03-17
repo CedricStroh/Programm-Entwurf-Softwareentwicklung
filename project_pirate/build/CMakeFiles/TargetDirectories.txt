@@ -1,0 +1,4 @@
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/build/CMakeFiles/developer_module.dir
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/build/CMakeFiles/main.dir
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/build/CMakeFiles/edit_cache.dir
+/workspaces/Programm-Entwurf-Softwareentwicklung/project_pirate/build/CMakeFiles/rebuild_cache.dir
